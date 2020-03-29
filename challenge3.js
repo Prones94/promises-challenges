@@ -72,7 +72,7 @@ async function greetAndUppercase(name) {
 // console.log(result)
 
 // Uncomment me! #2
-// greetAndUppercase('Meredith')
+// greetAndUppercase('Ducky')
 //     .then(function(result) {
 //         console.log(result)
 //     })
