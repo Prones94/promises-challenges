@@ -7,6 +7,14 @@
 1. Go to [GitHub.com](https://github.com) and create a new repository for your code (do not initialize with a `README`). Follow the instructions to add a new remote called 'origin' to your new repository.
 1. Navigate to each of the four Challenge files and follow the instructions in each.
 
+## Running Your Code
+
+From the root directory, run each of the four challenge files like so:
+
+```bash
+$ node challengeX.js
+```
+
 ## Submission
 
-1. Submit your code using [Gradescope](https://gradescope.com) to receive credit.
+Submit your code using [Gradescope](https://gradescope.com) to receive credit.

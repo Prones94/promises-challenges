@@ -67,11 +67,11 @@ async function greetAndUppercase(name) {
     return uppercasedGreeting
 }
 
-// Uncomment me! #1
+/* Uncomment me! #1 */
 // result = greetAndUppercase('Ducky')
 // console.log(result)
 
-// Uncomment me! #2
+/* Uncomment me! #2 */
 // greetAndUppercase('Ducky')
 //     .then(function(result) {
 //         console.log(result)

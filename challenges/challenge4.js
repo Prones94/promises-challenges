@@ -56,7 +56,7 @@ const person1Promise = makePromise('https://swapi.co/api/people/1')
 const person2Promise = makePromise('https://swapi.co/api/people/2')
 const person3Promise = makePromise('https://swapi.co/api/people/3')
 
-// Uncomment me! #1
+/* Uncomment me! #1 */
 // person1Promise.then(function(personResult) {
 //     console.log(`Resulting person's name: ${personResult.name}`);
 // }).catch(function(err) {
@@ -64,7 +64,7 @@ const person3Promise = makePromise('https://swapi.co/api/people/3')
 //     console.log(err);
 // });
 
-// Uncomment me! #2
+/* Uncomment me! #2 */
 // Promise.all([person1Promise, person2Promise, person3Promise])
 //     .then(function(results) {
 //         for (let i = 0; i < 3; i++) {
