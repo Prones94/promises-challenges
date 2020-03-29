@@ -12,7 +12,7 @@
 From the root directory, run each of the four challenge files like so:
 
 ```bash
-$ node challengeX.js
+$ node challenges/challengeX.js
 ```
 
 ## Submission
